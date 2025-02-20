@@ -40,6 +40,8 @@ Camera:
 ![image](https://github.com/user-attachments/assets/13be4a93-4948-4a48-862f-e388b71ff82d)
 Anomorphic :
 ![image](https://github.com/user-attachments/assets/d752c019-df0f-4ff8-84f0-6585a2de0d1e)
+Cine Camera Actor & Cine Camera Rig Rail:
+https://github.com/user-attachments/assets/391228eb-d857-4350-84f2-3c988bb766af
 
 
 
