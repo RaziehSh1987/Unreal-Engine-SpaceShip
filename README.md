@@ -45,6 +45,9 @@ Cine Camera Actor & Cine Camera Rig Rail:
 
 https://github.com/user-attachments/assets/391228eb-d857-4350-84f2-3c988bb766af
 
+Camera Rig Crane:
+
+https://github.com/user-attachments/assets/59824f47-02c0-436d-b979-a863e2cead8d
 
 
 
