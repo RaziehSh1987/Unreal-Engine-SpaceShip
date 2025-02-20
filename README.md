@@ -34,6 +34,13 @@ Decal:
 
 ![image](https://github.com/user-attachments/assets/2429e220-ed78-4f24-8f34-45e789ac15e4)
 
+Camera:
+![image](https://github.com/user-attachments/assets/e7d144dd-c165-412d-aa7e-372b2f5265a8)
+![image](https://github.com/user-attachments/assets/fcd41ac7-43b1-47cb-a823-d9b2d427514c)
+
+
+
+
 
 
 
